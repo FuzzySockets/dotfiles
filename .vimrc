@@ -6,6 +6,7 @@ set nocompatible
 set hlsearch
 set t_Co=256
 set rnu
+set list
 set nowrap
 set expandtab
 set tabstop=2

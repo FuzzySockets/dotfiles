@@ -16,5 +16,10 @@ set directory=~/swaps
 let mapleader=" "
 let g:molokai_original = 1
 let g:rehash256 = 1
+let g:ctrlp_working_path_mode = 'ra'
+let g:ctrlp_custom_ignore = {
+\ 'dir': '\v[\/](.git|node_modules)$',
+\ 'file': '\v\.(log)$'
+\}
 
 colorscheme molokai

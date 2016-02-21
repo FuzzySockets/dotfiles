@@ -16,6 +16,7 @@ rgr() {
 
 ## Aliases ##
 alias hi="history"
+alias ls="ls -lah"
 alias nrs="sudo npm run start"
 alias gp="git push origin "
 alias gb="git branch"

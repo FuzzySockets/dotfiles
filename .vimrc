@@ -11,6 +11,7 @@ set hlsearch
 set t_Co=256
 set expandtab
 set tabstop=2
+set ignorecase
 set shiftwidth=2
 set nocompatible
 set directory=~/swaps
